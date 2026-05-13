@@ -178,7 +178,7 @@ async def infokfc(message: types.Message):
         reply_markup=keyboard_inline)
 
     paid = OWNER
-    if user_id =="5234223466":
+    if user_id =="6769245930":
       return await message.reply(f''' 
 <b>🚫 you cannot demote owner </b>
         ''')
